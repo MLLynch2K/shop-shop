@@ -17,7 +17,7 @@ An e-commerce site refactored to use Redux to manage global state.
 
 ***
 ### Deployed Link     
-[Shop-Shop]()   
+[Shop-Shop](https://shopshop2k.herokuapp.com/)   
 
 ***
 ### Features    
